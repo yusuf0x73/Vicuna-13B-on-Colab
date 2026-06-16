@@ -1,4 +1,4 @@
-# BİSMİLLAHİRRAHMANİRRAHİM
+# Bismillah
 
 ChatGPT Like Bot On Google Collab
 
