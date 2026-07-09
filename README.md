@@ -1,6 +1,5 @@
-# Bismillah
+# Vicuna 13B on Google-Colab
 
-ChatGPT Like Bot On Google Collab
 
 This is a one click Ai Bot based on GPT algorithm. This is specifically called as Vicuna-13b. It's like ChatGPT. You can use it to achieve many tasks like code writing talking etc. It's not able to speak languages other than English. But it might be able to understand other languages.
 
